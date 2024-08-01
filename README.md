@@ -1,8 +1,8 @@
 ***Functionality Description:***
 
-The program in this repository, when loaded onto an FPGA board, creates a clock on a 7-segment display. The clock functions as a stopwatch, counting minutes and seconds. <br />
+The program in this repository, when loaded onto an FPGA board, creates a clock on a 7-segment display. The clock functions as a stopwatch, counting minutes and seconds. Used IEEE libraries, multiplexing, button debouncing and rising edge detection. <br />
 
-It has following functionalities:
+The program has following functionalities:
 
 * sw[15] - resets the clock when toggled and toggled back.
 
